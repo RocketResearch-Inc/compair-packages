@@ -1,0 +1,19 @@
+Package: compair
+Version: 0.2.3
+Architecture: amd64
+Maintainer: Rocket Research <support@compair.sh>
+Installed-Size: 22313
+Filename: /home/runner/work/_temp/compair-packages/apt/pool/main/c/compair/compair_0.2.3_linux_amd64.deb
+Size: 8333866
+MD5sum: 757000486e6bf83f83306d080e46d7fa
+SHA1: deb177ea084755c99b6cbf341ef9e7788717b59d
+SHA256: c11e9ff0825ae0f8ddd864774966e25f0e70277c5885d3a717370f9cb3411744
+Section: utils
+Priority: optional
+Homepage: https://compair.sh
+Description: Compair CLI helps developers catch cross-repo drift from the terminal.
+ Track related repos together and review changes in the context of the
+ backend, frontend, docs, SDKs, and other connected surfaces.
+Architecture-Variant: amd64v1
+License: Apache-2.0
+

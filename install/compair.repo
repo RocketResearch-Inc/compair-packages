@@ -1,0 +1,7 @@
+[compair]
+name=Compair Packages
+baseurl=https://rocketresearch-inc.github.io/compair-packages/rpm/$basearch
+enabled=1
+gpgcheck=0
+repo_gpgcheck=1
+gpgkey=https://rocketresearch-inc.github.io/compair-packages/gpg.key
