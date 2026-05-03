@@ -1,14 +1,14 @@
 Package: compair
-Version: 0.4.5
+Version: 0.4.6
 Architecture: arm64
 Maintainer: Rocket Research <support@compair.sh>
 Installed-Size: 21460
 Depends: git
-Filename: pool/main/c/compair/compair_0.4.5_linux_arm64.deb
-Size: 7699736
-MD5sum: 6bf5888ff101da360e62c73ad7816970
-SHA1: 4d130853207ecfc6d95707e932f53cfff942c728
-SHA256: 70f127f4f987d2d84b4e65271e57f5faec00d38790b640232be66a13e2f7083d
+Filename: pool/main/c/compair/compair_0.4.6_linux_arm64.deb
+Size: 7700342
+MD5sum: d90f11df35da1c561caf942416a2acfd
+SHA1: d4a803ef25619c6f5ab00a48c754c4b1f0aeed89
+SHA256: 908b7417902e598b5aa4fb2800c45b1842ba8876e993b0ac27ba54175c9d8dbb
 Section: utils
 Priority: optional
 Homepage: https://compair.sh
